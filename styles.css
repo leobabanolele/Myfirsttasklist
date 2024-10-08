@@ -2,8 +2,16 @@
     html,body{
         margin: 0;
         text-align: center;
+        font-size: 25px;
+        background-color: rgb(241, 219, 240);
     }
     h1 {text-align: center;}
-    p{color: brown;
+    
+i{
+    color: red;
+}
+span{
+    color: blue;
+}p{color: brown;
     text-align: center;
     background-color: green;}
